@@ -1,0 +1,15 @@
+# Secret files — never upload these
+.env
+
+# Python junk files — not needed
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environment — too big to upload
+venv/
+env/
+
+# VS Code settings — not needed by others
+.vscode/
