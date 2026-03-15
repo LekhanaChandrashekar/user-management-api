@@ -1,0 +1,37 @@
+Project: User Management API
+AI Tool: Claude
+Date: 15 March 2026
+
+Prompt 1: Help me understand what this project is about and what we need to build
+
+Prompt 2: Explain what Flask is and how it works
+
+Prompt 3: Explain what an API is and what CRUD means
+
+Prompt 4: Help me set up the project folder structure
+
+Prompt 5: Explain and write requirements.txt
+
+Prompt 6: Explain and write .gitignore
+
+Prompt 7: Explain and write .env file
+
+Prompt 8: Explain and write extensions.py with SQLAlchemy setup
+
+Prompt 9: Explain and write models.py with User model
+
+Prompt 10: Explain and write routes.py with all CRUD endpoints
+
+Prompt 11: Explain and write __init__.py with Application Factory Pattern
+
+Prompt 12: Explain and write multi-stage Dockerfile
+
+Prompt 13: Explain and write docker-compose.yml with Flask and Postgres services
+
+Prompt 14: Explain and write Makefile
+
+Prompt 15: Help fix psycopg2 error and port allocation error
+
+Prompt 16: Help create database migrations and run them
+
+Prompt 17: Help test all endpoints with Postman
